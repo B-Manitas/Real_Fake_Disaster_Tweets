@@ -1,2 +1,4 @@
-Dataset/train_cleaned.txt
-Dataset/train.txt
+Dataset/train_cleaned.csv
+Dataset/train.csv
+Dataset/.ipynb_checkpoints
+.ipynb_checkpoints
