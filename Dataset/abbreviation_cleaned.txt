@@ -1,0 +1,123 @@
+abbreviation;word
+afaik;far know
+afk;away keyboard
+asap;son possible
+atk;keyboard
+atm;mom
+a3;anywh
+bak;back keyboard
+bbl;back later
+bbs;back son
+bfn;bye
+b4n;bye
+brb;right back
+brt;right
+btw;way
+b4;
+b4n;bye
+cu;be
+cul8r;be later
+cya;be
+faq;frequently asked questions
+fc;fingers closed
+fwiw;wor
+fyi;inform
+gal;get life
+gg;god game
+gn;god night
+gmta;great minds think alike
+gr8;gre
+g9;geni
+ic;see
+icq;see
+ilu;lov
+imho;honest opinion
+imo;opin
+iow;word
+irl;real life
+kiss;kep simple
+ldr;long distance relationship
+lmao;laugh
+lol;laughing loud
+ltns;long time be
+l8r;lat
+m;
+mte;thoughts exactly
+m8;mat
+nrn;reply necess
+oic;of be
+pita;pain
+prt;party
+prw;parents watching
+qpsa;que past
+rofl;rolling flor laugh
+roflol;rolling flor laughing loud
+rotflmao;rolling flor laugh
+sk8;skat
+stats;sex age
+asl;age sex location
+thx;thank
+ttfn;dat
+ttyl;talk later
+u;
+u2;
+u4e;ev
+wb;welcome back
+wtf;fuck
+wtg;way go
+wuf;
+w8;wait
+7k;sick laugher
+al;alabam
+ak;alask
+az;arizon
+ar;arkansa
+ca;californ
+co;colorado
+ct;connecticut
+de;delaw
+fl;florid
+ga;georg
+hi;hawai
+id;idaho
+il;illino
+in;indian
+ia;iow
+ks;kansa
+ky;kentucky
+la;louisian
+me;main
+md;maryland
+ma;massachuset
+mi;michig
+mn;minnesot
+ms;is iii
+mo;missour
+mt;montan
+ne;nebrask
+nv;nevad
+nh;new hampshire
+nj;new jersey
+nm;new mexico
+ny;new york
+nc;north carolina
+nd;north dakota
+oh;ohio
+ok;oklahom
+or;oregon
+pa;pennsylvan
+ri;rhode island
+sc;south carolina
+sd;south dakota
+tn;tens
+tx;texa
+ut;utah
+vt;vermont
+va;virgin
+wa;washington
+wv;west virginia
+wi;wisconsin
+wy;wyom
+dc;district columbia
+usa;unit state
+uk;unit kingdom

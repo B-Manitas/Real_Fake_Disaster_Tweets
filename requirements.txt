@@ -1,0 +1,6 @@
+autocorrect
+nltk
+pandas
+re
+textblob
+tqdm
